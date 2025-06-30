@@ -2,8 +2,6 @@
 AWS Bootcamp Week 3 – EC2 Provisioning &amp; Security /Launched and configure a **Windows Server EC2 instance** using the **Amazon Windows Server 2025 Base AMI (or later)
 from pathlib import Path
 
-# Re-define output path and README content after kernel reset
-readme_content = """
 # 🚀 AWS Bootcamp Week 3 – EC2 Provisioning & Security
 
 ## 📌 Task Objective
